@@ -10,6 +10,6 @@
     "express-static": "^1.0.3",
     "multer": "^1.2.1",
     "mysql": "github:mysqljs/mysql",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
